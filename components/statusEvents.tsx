@@ -1,6 +1,6 @@
 import { useContract, useContractEvents } from "@thirdweb-dev/react"
 import { STATUS_CONTRACT_ADDRESS } from "../constants/addresses"
-import { useContractEvent } from "wagmi";
+// import { useContractEvent } from "wagmi";
 import EventCard from "./eventCard";
 
 export default function StatusEvents() {
